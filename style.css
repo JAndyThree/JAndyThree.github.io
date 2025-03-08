@@ -4,17 +4,17 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-    background-color: #40E0D0;
+    background-color: #ffffff;
 }
 
 nav {
-    background-color: #333;
+    background-color: #000000;
     padding: 10px;
     margin-bottom: 20px;
 }
 
 nav a {
-    color: white;
+    color: #40E0D0;
     text-decoration: none;
     margin-right: 15px;
 }
